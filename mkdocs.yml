@@ -1,0 +1,12 @@
+site_name: Mkdocs - GitBook Theme
+
+theme:
+  name: gitbook
+
+plugins: []
+
+extra:
+  nav:
+    sort_order: reverse
+
+repo_url: https://gitlab.com/lramage/mkdocs-gitbook-theme
